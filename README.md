@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al-Anher Provat</h1>
-<h5 align="center"><p>I'm about to finish my undergrad at Chittagong University of Engineering and Technology's Department of CSE. During my academic years, I've competed in over 70 programming contests, both onsite and online. Then I became interested in frontend development technologies, so I focused on studying JavaScript, with a particular emphasis on React. My contest and programming experiences are included in <a href="https://drive.google.com/file/d/1qNdMUbwqwA75CkyD44AboZ5qy5NzmsaJ/view?usp=sharing"> my resume</a>. As a newcomer with no industry experience, I am keen to find a way to contribute to the industry.</p></h5>
+<h5 align="center"><p>I've finished my undergrad at Chittagong University of Engineering and Technology's Department of CSE. During my academic years, I competed in over 70 programming contests, both onsite and online. And I have completed around 500 problems on different platforms. Then I became interested in frontend development technologies, so I focused on studying JavaScript, with a particular emphasis on React Js. My contest and programming experiences are included in <a href="https://drive.google.com/file/d/1qNdMUbwqwA75CkyD44AboZ5qy5NzmsaJ/view?usp=sharing"> my resume</a>. As a newcomer with no industry experience, I am keen to find a way to contribute to the industry.</p></h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanherprovat&label=Profile%20views&color=0e75b6&style=flat" alt="alanherprovat" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/al anher provat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al anher provat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/al-anher-provat-427016211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al anher provat" height="30" width="40" /></a>
 <a href="https://fb.com/alanher.provat.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alanher.provat.52" height="30" width="40" /></a>
 <a href="https://instagram.com/anherprovat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anherprovat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/1704042_provat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1704042_provat" height="30" width="40" /></a>
